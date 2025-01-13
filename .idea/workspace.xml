@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bb5114b-7fbe-4c0f-ba5d-ace5e6b4f50b" name="Changes" comment="Init Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vladstorm98"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vladstorm98/test_git.git",
+    "accountId": "2c11107d-07cc-4eb9-ae09-f8a6b8df8687"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oWVBlYhxXe782s6TuDwe0DlHWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AboutMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooleanLogic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckedExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleInputExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileInputExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileOutputExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinallyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primitives.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecordExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursionEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourcesExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.anonymous_classes.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.class_object.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.class_object.clone.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.class_object.equals_and_hashcode.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.class_object.hashcode.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.enumeration.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.inheritance.lesson9.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.inheritance.lesson9.practice.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.inheritance.lesson9.practice2.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.lesson7.practice.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.lesson8.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.lesson8.practice.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.nested_classes.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.polymorphism.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.polymorphism.instanseof_example.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.polymorphism.interface_marker.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.polymorphism.interfaces.basics.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.polymorphism.interfaces.practice.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop.primitives_wrappers.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/java_core&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/java_core/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.polymorphism.difference_interface_abstract_class" />
+      <recent name="oop.nested_classes" />
+      <recent name="oop.anonymous_classes" />
+      <recent name="oop.polymorphism.instanseof_example" />
+      <recent name="oop.polymorphism.interfaces.functional_interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\java_core\resources" />
+      <recent name="C:\Java\java_core" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Homework">
+    <configuration name="FileOutputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.FileOutputExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input_output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.practice.Homework" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.OutputExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input_output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.TryWithResourcesExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input_output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.practice.homework" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.homework" />
+        <item itemvalue="Application.FileOutputExample" />
+        <item itemvalue="Application.OutputExample" />
+        <item itemvalue="Application.TryWithResourcesExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb5114b-7fbe-4c0f-ba5d-ace5e6b4f50b" name="Changes" comment="" />
+      <created>1730985190361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730985190361</updated>
+      <workItem from="1730985191878" duration="9149000" />
+      <workItem from="1736257143094" duration="2000" />
+      <workItem from="1736280369783" duration="17000" />
+      <workItem from="1736280438185" duration="549000" />
+      <workItem from="1736281443923" duration="194000" />
+      <workItem from="1736281662219" duration="1000" />
+      <workItem from="1736281703101" duration="641000" />
+      <workItem from="1736282368666" duration="333000" />
+      <workItem from="1736282717475" duration="6000" />
+      <workItem from="1736282768451" duration="1000" />
+      <workItem from="1736283329245" duration="613000" />
+      <workItem from="1736283956757" duration="52000" />
+      <workItem from="1736284017478" duration="22000" />
+      <workItem from="1736284479542" duration="244000" />
+      <workItem from="1731100722391" duration="112000" />
+      <workItem from="1731619239093" duration="227000" />
+      <workItem from="1731619474114" duration="26000" />
+      <workItem from="1736285124870" duration="29000" />
+      <workItem from="1736408849049" duration="5412000" />
+      <workItem from="1736415227929" duration="113801000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1736756318280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736756318280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1736756630002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736756630002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/start/practice/Homework.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_core$oop_class_object_equals_and_hashcode_Runner.ic" NAME="oop.class_object.equals_and_hashcode.Runner Coverage Results" MODIFIED="1736543251676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>oop.class_object.equals_and_hashcode.*</FILTER>
+    </SUITE>
+  </component>
+</project>
