@@ -1,4 +1,4 @@
-package start.lesson3;
+package start.lesson1;
 
 public class Primitives {
     public static void main(String[] args) {

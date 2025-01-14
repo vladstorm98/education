@@ -11,7 +11,6 @@ public class Homework {
 
 
 
-
     public static void main(String[] args) {
         double height = 1.93;
         int weight = 91;
