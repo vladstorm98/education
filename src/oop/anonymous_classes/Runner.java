@@ -15,5 +15,16 @@ public class Runner {
         };
         dog.breath();
         dog.eat();
+
+        Alive horse = new Alive() {
+
+            @Override
+            public void eat() {
+            }
+
+            @Override
+            public void breath() {
+            }
+        };
     }
 }

@@ -4,17 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea5cbac-4a61-4452-9b96-da7019b7d463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/start/lesson2/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/start/lesson2/MyMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8ea5cbac-4a61-4452-9b96-da7019b7d463" name="Changes" comment="Update commit">
+      <change afterPath="$PROJECT_DIR$/src/practice/builder_homework/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/builder_homework/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/FlyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/WatchIsBrokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/PriceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Sell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/LenonoComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/OutputTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_3/FinancialRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_3/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/ReportRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Fern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Pine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Smellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Spruce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/lesson2/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson1/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/lesson3/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson1/MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/lesson3/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson1/Primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/practice/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/practice/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/interfaces/basics/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/interfaces/basics/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/practice/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,45 +73,65 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2rZb1eyvqWYSpsYjYZiWQr5cKsp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Homework2.executor": "Run",
-    "Application.MyMap.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Java/java_core/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Homework2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LenonoComputer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourcesExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.builder_homework.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.exception_homework.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.exception_homework_2.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.exception_homework_3.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.pattern_homework.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.static_homework.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.task_warehouse.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/java_core/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="practice.exception_homework_2" />
+      <recent name="practice.exception_homework" />
+      <recent name="practice.interfaces_homework" />
       <recent name="start.practice" />
       <recent name="start.practice.Dog" />
-      <recent name="Cat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyMap">
-    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="start.practice.Homework2" />
+  <component name="RunManager" selected="Application.Task_4">
+    <configuration name="OutputTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.OutputTask" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="start.practice.*" />
+          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +139,116 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="start.lesson2.MyMap" />
+    <configuration name="OutputTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.output_homework.OutputTask" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="start.lesson2.*" />
+          <option name="PATTERN" value="practice.output_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_2" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task_2" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.output_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_3.Task_3" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task_3" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.output_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_4.Task_4" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.input_output_homework.Task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.output_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input_output.TryWithResourcesExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,16 +258,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyMap" />
-        <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_3" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.OutputTask" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
       </set>
     </attachedChunks>
   </component>
@@ -119,11 +284,39 @@
       <updated>1736769331057</updated>
       <workItem from="1736769332278" duration="5882000" />
       <workItem from="1736781644226" duration="13122000" />
-      <workItem from="1736850096350" duration="2144000" />
+      <workItem from="1736850096350" duration="20301000" />
+      <workItem from="1736928136794" duration="5475000" />
+      <workItem from="1736934030759" duration="14784000" />
+      <workItem from="1736954415489" duration="6791000" />
+      <workItem from="1736978297213" duration="2981000" />
+      <workItem from="1736981722018" duration="5914000" />
+      <workItem from="1737017995485" duration="4613000" />
+      <workItem from="1737023836572" duration="14375000" />
+      <workItem from="1737103229473" duration="95000" />
+      <workItem from="1737103447682" duration="4329000" />
+      <workItem from="1737107888418" duration="1863000" />
+      <workItem from="1737109930237" duration="10817000" />
+      <workItem from="1737125222239" duration="1719000" />
+      <workItem from="1737127208656" duration="4176000" />
+      <workItem from="1737271584857" duration="2131000" />
+      <workItem from="1737273893621" duration="2715000" />
     </task>
+    <task id="LOCAL-00001" summary="Update commit">
+      <option name="closed" value="true" />
+      <created>1736857734232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736857734232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update commit" />
   </component>
 </project>

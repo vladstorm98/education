@@ -1,2 +1,4 @@
-Глава 1
-Шел футбольный матч
+price;carModel;mileage
+10000;bmw;20000
+20000;audi;50000
+1500;mercedes;150000

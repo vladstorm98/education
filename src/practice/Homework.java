@@ -1,4 +1,4 @@
-package start.practice;
+package practice;
 
 public class Homework {
     private static final String OPEN_TAG = "<data>";
