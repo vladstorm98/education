@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea5cbac-4a61-4452-9b96-da7019b7d463" name="Changes" comment="Update commit">
-      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/Max_Min_Avg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/SearchingSimpleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/comparator/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/CreateStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/GetOneElementOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/GroupingTerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/LogicalTerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/TerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/CarOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/OptionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/HighOrderFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/OperatorAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ea5cbac-4a61-4452-9b96-da7019b7d463" name="Changes" comment="Update commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +213,7 @@
       <workItem from="1737621115176" duration="4153000" />
       <workItem from="1737625376844" duration="2135000" />
       <workItem from="1737627568286" duration="9649000" />
-      <workItem from="1737641829725" duration="10501000" />
+      <workItem from="1737641829725" duration="11340000" />
     </task>
     <task id="LOCAL-00001" summary="Update commit">
       <option name="closed" value="true" />
@@ -256,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737277890940</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update commit">
+      <option name="closed" value="true" />
+      <created>1737712798588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737712798588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

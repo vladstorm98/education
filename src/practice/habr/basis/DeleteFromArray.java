@@ -10,6 +10,6 @@ public class DeleteFromArray {
         int[] array = {1,5,7,7,4,6,3,9,2};
         int number = 7;
 
-
+        public static int[] deleteNumberFromArray(int[] array, int number)
     }
 }
