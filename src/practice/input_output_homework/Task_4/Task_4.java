@@ -4,8 +4,6 @@ import java.io.*;
 import java.math.BigDecimal;
 import java.util.HashMap;
 
-import java.util.Scanner;
-
 public class Task_4 {
     public static final String DELIMITER_SYMBOL = ";";
     private static final String SLASH_SYMBOL = "/";
@@ -20,10 +18,9 @@ public class Task_4 {
         // Прибыль по магазину pyterochka по месяцам
         // 01.2012: 20000.00
         // 02.2012: -100332.00 и тд
-
     }
 
-    public static void getProfitReportByShop(String shop, File resourcesPath) throws IOException {
+    public static void getProfitReportByShop(String shop, File resourcesPath) {
         String[] list = resourcesPath.list();
         HashMap<String, BigDecimal[]> result = new HashMap<>();
         assert list != null;
@@ -65,6 +62,7 @@ public class Task_4 {
             if (result.containsKey(monthAndYearKey)) {
                 BigDecimal[] incomesAndOutcomesPerMonth = result.get(monthAndYearKey);
                 System.out.println(monthAndYearKey + ": " + incomesAndOutcomesPerMonth[0]);
+
             }
 
         } catch (IOException e) {

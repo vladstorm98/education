@@ -5,52 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ea5cbac-4a61-4452-9b96-da7019b7d463" name="Changes" comment="Update commit">
-      <change afterPath="$PROJECT_DIR$/src/practice/builder_homework/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/builder_homework/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/classes_homework/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/FlyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Watch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/WatchIsBrokenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_2/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/PriceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/exception_homework_3/Sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/Electronic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/inheritance_homework/LenonoComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/OutputTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_3/FinancialRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_3/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/ReportRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Fern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Pine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Smellable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Spruce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/interfaces_homework/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/Max_Min_Avg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/habr/basis/SearchingSimpleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/comparator/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/CreateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/GetOneElementOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/GroupingTerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/LogicalTerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/TerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/CarOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/stream/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/HighOrderFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/theory_part_1/OperatorAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/article.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/interfaces/basics/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/interfaces/basics/Moveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/practice/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/input_output_homework/Task_4/Task_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,42 +58,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LenonoComputer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OutputTask.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryWithResourcesExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.builder_homework.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.exception_homework.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.exception_homework_2.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.exception_homework_3.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.pattern_homework.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.static_homework.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.task_warehouse.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/java_core/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.CreateStream.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.GetOneElementOperations.executor": "Run",
+    "Application.GroupingTerminalOperations.executor": "Run",
+    "Application.HighOrderFunctionExample (1).executor": "Run",
+    "Application.HighOrderFunctionExample.executor": "Run",
+    "Application.Homework2.executor": "Run",
+    "Application.LenonoComputer.executor": "Run",
+    "Application.LogicalTerminalOperations.executor": "Run",
+    "Application.Max_Min_Avg.executor": "Run",
+    "Application.MyMap.executor": "Run",
+    "Application.OptionalExample.executor": "Run",
+    "Application.OutputTask.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.SearchingSimpleNumbers.executor": "Run",
+    "Application.Stream.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Task_2.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "Application.Task_5.executor": "Run",
+    "Application.TerminalOperations.executor": "Run",
+    "Application.TryWithResourcesExample.executor": "Run",
+    "Application.practice.builder_homework.Runner.executor": "Run",
+    "Application.practice.exception_homework.Runner.executor": "Run",
+    "Application.practice.exception_homework_2.Runner.executor": "Run",
+    "Application.practice.exception_homework_3.Runner.executor": "Run",
+    "Application.practice.pattern_homework.Runner.executor": "Run",
+    "Application.practice.static_homework.Runner.executor": "Run",
+    "Application.practice.task_warehouse.Runner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Java/java_core/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="practice.exception_homework_2" />
@@ -125,13 +117,13 @@
       <recent name="start.practice.Dog" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_4">
-    <configuration name="OutputTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.OutputTask" />
+  <component name="RunManager" selected="Application.GroupingTerminalOperations">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.habr.basis.BubbleSort" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="PATTERN" value="practice.habr.basis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.output_homework.OutputTask" />
+    <configuration name="GetOneElementOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.stream.GetOneElementOperations" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.output_homework.*" />
+          <option name="PATTERN" value="stream_api.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task" />
+    <configuration name="GroupingTerminalOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.stream.GroupingTerminalOperations" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="PATTERN" value="stream_api.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_2" />
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.stream.optional.OptionalExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
+          <option name="PATTERN" value="stream_api.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,77 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task_2" />
+    <configuration name="SearchingSimpleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.habr.basis.SearchingSimpleNumbers" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.output_homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_3.Task_3" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.input_output_homework.Task_3.FinancialRecord" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task_3" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.output_homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.input_output_homework.Task_4.Task_4" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.input_output_homework.Task_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.output_homework.Task" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.output_homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryWithResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="input_output.TryWithResourcesExample" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="input_output.*" />
+          <option name="PATTERN" value="practice.habr.basis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_4" />
-        <item itemvalue="Application.Task_3" />
-        <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.OutputTask" />
+        <item itemvalue="Application.GroupingTerminalOperations" />
+        <item itemvalue="Application.GetOneElementOperations" />
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.SearchingSimpleNumbers" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +226,19 @@
       <workItem from="1737125222239" duration="1719000" />
       <workItem from="1737127208656" duration="4176000" />
       <workItem from="1737271584857" duration="2131000" />
-      <workItem from="1737273893621" duration="2715000" />
+      <workItem from="1737273893621" duration="8481000" />
+      <workItem from="1737283885165" duration="1990000" />
+      <workItem from="1737303311382" duration="1365000" />
+      <workItem from="1737304979522" duration="13919000" />
+      <workItem from="1737447677478" duration="17372000" />
+      <workItem from="1737497689782" duration="4209000" />
+      <workItem from="1737535985231" duration="5460000" />
+      <workItem from="1737575718244" duration="1140000" />
+      <workItem from="1737585049499" duration="3677000" />
+      <workItem from="1737621115176" duration="4153000" />
+      <workItem from="1737625376844" duration="2135000" />
+      <workItem from="1737627568286" duration="9649000" />
+      <workItem from="1737641829725" duration="10501000" />
     </task>
     <task id="LOCAL-00001" summary="Update commit">
       <option name="closed" value="true" />
@@ -309,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736857734232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update commit">
+      <option name="closed" value="true" />
+      <created>1737277890940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737277890940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
