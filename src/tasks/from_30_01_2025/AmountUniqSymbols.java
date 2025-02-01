@@ -1,4 +1,4 @@
-package tasks;
+package tasks.from_30_01_2025;
 
 import java.util.Map;
 import java.util.stream.Collectors;
