@@ -35,4 +35,4 @@
 # Но разрешаем tasks
 !src/
 !src/tasks/
-!src/tasks/*
+
