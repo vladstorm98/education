@@ -29,7 +29,7 @@ bin/
 .DS_Store
 
 ### My ignoring ###
-.idea
+/.idea/
 src/input_output/
 src/oop/
 src/practice/
@@ -43,3 +43,4 @@ src/stream_api
 #!src/
 #!src/tasks/
 #!src/tasks/
+
