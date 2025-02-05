@@ -1,7 +1,17 @@
 package tasks.multitreading.TaskScheduler;
 
 public enum TaskPriority {
-    HIGH (),
-    MEDIUM,
-    LOW;
+    HIGH (1),
+    MEDIUM (2),
+    LOW (3);
+
+    private int priority;
+
+    TaskPriority(int priority) {
+        this.priority = priority;
+    }
+
+    public int getPriority() {
+        return priority;
+    }
 }

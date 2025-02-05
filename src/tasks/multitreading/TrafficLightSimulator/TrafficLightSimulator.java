@@ -4,7 +4,18 @@ public class TrafficLightSimulator extends Thread{
     private boolean running = true;
     private TrafficLight currentLight = TrafficLight.GREEN;
 
-
+    @Override
+    public void run() {
+        while (running) {
+            System.out.println("Traffic light changed to " + currentLight);
+            try {
+                Thread.sleep(currentLight.getDuration());
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+            switchLight();
+        }
+    }
 
     public void switchLight() {
         currentLight = switch (currentLight) {
