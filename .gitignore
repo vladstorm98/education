@@ -29,6 +29,7 @@ bin/
 .DS_Store
 
 ### My ignoring ###
+.idea
 src/input_output/
 src/oop/
 src/practice/
