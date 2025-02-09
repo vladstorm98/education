@@ -1,4 +1,4 @@
-package tasks.streams.task1;
+package tasks.stream_api.task1;
 
 public class Worker {
      String department;

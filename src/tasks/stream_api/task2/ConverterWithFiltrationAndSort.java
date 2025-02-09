@@ -1,4 +1,4 @@
-package tasks.streams.task2;
+package tasks.stream_api.task2;
 
 import java.util.List;
 import java.util.stream.Collectors;

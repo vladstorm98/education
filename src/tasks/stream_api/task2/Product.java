@@ -1,4 +1,4 @@
-package tasks.streams.task2;
+package tasks.stream_api.task2;
 
 public class Product {
     private String name;
