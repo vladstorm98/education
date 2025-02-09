@@ -2,16 +2,14 @@ package tasks.stream_api.order_system;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
 
 public class Runner {
     public static void main(String[] args) {
         // Есть система заказов, где каждый заказ содержит информацию о клиенте, дате заказа и списке позиций заказа.
         // Каждая позиция заказа (OrderItem) включает название товара, количество и цену за единицу.
         // Необходимо решить следующие задачи с использованием Stream API (задания ниже):
+
         Customer ivan = new Customer(1, "Ivan");
         Customer svetlana = new Customer(2, "Svetlana");
         Customer nazar = new Customer(3, "Nazar");
@@ -39,42 +37,11 @@ public class Runner {
                 ))
         );
 
-        // 1. Найти клиентов, у которых суммарная стоимость заказов превышает заданное значение.(Стоимость одного заказа
-        // вычисляется как сумма (количество × цена) для всех позиций заказа.)
-        double neededTotal = 1300;
-        Map<Customer, Double> customerTotal = orders.stream()
-                .collect(Collectors.groupingBy(Order::getCustomer, Collectors.summingDouble(Order::getTotalAmount)));
+        OrderHandler handler = new OrderHandler(orders);
 
-        List<Customer> neededCustomers = customerTotal.entrySet().stream()
-                .filter(e -> e.getValue() > neededTotal)
-                .map(Map.Entry::getKey)
-                .toList();
-
-        System.out.println("Customers reached total threshold of 1300: " + neededCustomers);
-
-        // 2. Сгруппировать заказы по месяцам и вычислить общую выручку за каждый месяц.
-        Map<Month, Double> monthTotal = orders.stream()
-                .collect(Collectors.groupingBy(
-                        order -> order.getOrderDate().getMonth(),
-                        Collectors.summingDouble(Order::getTotalAmount)));
-
-        System.out.println("\nRevenue per month:");
-        monthTotal.forEach((k, v) -> System.out.println(k + " - " + v + " coins."));
-
-        // 3. Определить топ-3 самых популярных товара по количеству заказанных единиц.
-        System.out.println("\nTop-3 popular goods:");
-        orders.stream()
-                .flatMap(order -> order.getOrderItems().stream())
-                .sorted(Comparator.comparing(OrderItem::getQuantity, Comparator.reverseOrder()))
-                .limit(3)
-                .forEach(System.out::println);
-
-        // 4. Вычислить для каждого клиента среднюю стоимость заказа.
-        Map<Customer, Double> averageCustomersTotal = orders.stream()
-                .collect(Collectors.groupingBy(Order::getCustomer,
-                        Collectors.averagingDouble(Order::getTotalAmount)));
-
-        System.out.println("\nAverage receipt per client: ");
-        averageCustomersTotal.forEach((k, v) -> System.out.println(k + " - " + v + " coins."));
+        handler.favoriteCustomers(1300);
+        handler.revenueByMonth();
+        handler.top3Items();
+        handler.averageCustomerReceipt();
     }
 }
