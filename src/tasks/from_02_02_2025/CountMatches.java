@@ -1,4 +1,4 @@
-package tasks.from_01_02_2025;
+package tasks.from_02_02_2025;
 
 import java.util.ArrayList;
 

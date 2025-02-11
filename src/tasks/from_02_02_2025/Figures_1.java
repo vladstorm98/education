@@ -1,4 +1,4 @@
-package tasks.from_01_02_2025;
+package tasks.from_02_02_2025;
 
 public class Figures_1 {
     public static void main(String[] args) {
