@@ -19,7 +19,7 @@ public class Runner {
                         .addRow("January", "1000$", "500 orders")
                         .addRow("February", "1200$", "600 orders")
                         .build())
-                .addChart(new Chart(ChartType.BAR, "Продажи по месяцам"))
+                .addChart(ChartType.BAR, "Продажи по месяцам")
                 .build();
 
         System.out.println(report);

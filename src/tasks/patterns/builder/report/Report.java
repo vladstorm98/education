@@ -58,8 +58,8 @@ public class Report {
             return this;
         }
 
-        public Builder addChart(Chart chart) {
-            this.charts.add(chart);
+        public Builder addChart(ChartType type, String description) {
+            this.charts.add(new Chart(type, description ));
             return this;
         }
 
