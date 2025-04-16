@@ -30,12 +30,3 @@ bin/
 
 ### My ignoring ###
 /.idea/
-
-
-## Игнорируем всё
-#*
-#
-## Но разрешаем tasks
-#!src/
-#!src/tasks/
-#!src/tasks/
