@@ -30,11 +30,7 @@ bin/
 
 ### My ignoring ###
 /.idea/
-src/input_output/
-src/oop/
-src/practice/
-src/start/
-src/stream_api
+
 
 ## Игнорируем всё
 #*
