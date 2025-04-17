@@ -1,4 +1,4 @@
-package tasks.patterns.strategy.example;
+package patterns.strategy.TaxCalculator;
 
 public class USATax implements TaxStrategy {
     @Override
