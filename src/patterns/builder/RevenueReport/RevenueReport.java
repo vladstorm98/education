@@ -1,10 +1,13 @@
-package tasks.patterns.builder.report;
+package patterns.builder.RevenueReport;
+
+import lombok.ToString;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Report {
+@ToString
+public class RevenueReport {
     private final String title;
     private final String author;
     private final LocalDate dateOfCreation;
@@ -12,7 +15,7 @@ public class Report {
     private final List<Table> tables;
     private final List<Chart> charts;
 
-    private Report(Builder builder) {
+    private RevenueReport(Builder builder) {
         this.title = builder.title;
         this.author = builder.author;
         this.dateOfCreation = builder.dateOfCreation;
@@ -21,17 +24,17 @@ public class Report {
         this.charts = builder.charts;
     }
 
-    static class Builder {
+    public static Builder builder() {
+        return new Builder();
+    }
+
+    public static class Builder {
         private String title;
         private String author;
         private LocalDate dateOfCreation;
         private final List<Section> sections = new ArrayList<>();
         private final List<Table> tables = new ArrayList<>();
         private final List<Chart> charts = new ArrayList<>();
-
-        public Builder(String title) {
-            this.title = title;
-        }
 
         public Builder setTitle(String title) {
             this.title = title;
@@ -59,24 +62,13 @@ public class Report {
         }
 
         public Builder addChart(ChartType type, String description) {
-            this.charts.add(new Chart(type, description ));
+            this.charts.add(new Chart(type, description));
             return this;
         }
 
-        public Report build() {
-            return new Report(this);
+        public RevenueReport build() {
+            return new RevenueReport(this);
         }
-    }
-
-    @Override
-    public String toString() {
-        return "Report:" +
-                "\n    title = " + title +
-                ";\n    author = " + author +
-                ";\n    dateOfCreation = " + dateOfCreation +
-                ";\n    sections = " + sections +
-                ";\n    tables = " + tables +
-                ";\n    charts = " + charts + ".";
     }
 }
 
