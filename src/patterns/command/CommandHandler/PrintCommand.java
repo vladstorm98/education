@@ -1,4 +1,4 @@
-package tasks.polymorphism.system_command_handler;
+package patterns.command.CommandHandler;
 
 public class PrintCommand implements Command {
     @Override

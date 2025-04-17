@@ -1,16 +1,15 @@
-package tasks.polymorphism.system_command_handler;
+package patterns.command.CommandHandler;
+
+import lombok.RequiredArgsConstructor;
 
 import java.util.Map;
 
+@RequiredArgsConstructor
 public class CommandHandler {
     private final Map<String, Command> commands;
 
-    public CommandHandler(Map<String, Command> commands) {
-        this.commands = commands;
-    }
-
     public void executeCommand(String command) {
-        Command cmd = this.commands.get(command);
+        Command cmd = commands.get(command);
         if (!isNull(cmd)) {
             cmd.execute();
         } else {
@@ -21,5 +20,4 @@ public class CommandHandler {
     private static boolean isNull(Command command) {
         return command == null;
     }
-
 }

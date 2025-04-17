@@ -1,16 +1,16 @@
-package tasks.polymorphism.system_command_handler;
+package patterns.command.CommandHandler;
 
 // Exercise: Realize system of command with polymorphism.
 //
 // Requirements:
-//+ There is command - Command, which has method - execute().
-//+ Different commands perform different actions.
-//+ Commands sign up in Map<String, Command>.
-//+ You can find needed command by the String and execute it.
+//   There is command - Command, which has method - execute().
+//   Different commands perform different actions.
+//   Commands sign up in Map<String, Command>.
+//   You can find needed command by the String and execute it.
 
 import java.util.HashMap;
 
-public class Runner {
+public class Main {
     public static void main(String[] args) {
         HashMap<String, Command> commands = new HashMap<>();
         commands.put("print", new PrintCommand());
